@@ -1,6 +1,6 @@
 ## Skipcash Integration with ERPNEXT
 
-By M20Zero
+SkipCash is the payment gateway and Mobile Payment App provider based in Qatar
 
 #### License
 
